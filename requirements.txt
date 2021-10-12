@@ -6,7 +6,7 @@ junit_xml==1.8
 numpy==1.16.5
 adbutils==0.6.4
 airtest==1.1.1
-opencv_contrib_python==3.4.2.17
+opencv_contrib_python==4.2.0.32
 selenium==3.141.0
 requests==2.22.0
 xlrd==1.2.0
